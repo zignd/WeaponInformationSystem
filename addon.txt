@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Weapon Information System"
+	"version"			"1.0"
+	"author_name"		"Zignd"
+	"author_email"		"zignd.igor@gmail.com"
+	"author_url"		"http://steamcommunity.com/id/zignd/"
+	"info"				"Displays information about a weapon or ammo on the ground."
+	"override"			"0"
+}
