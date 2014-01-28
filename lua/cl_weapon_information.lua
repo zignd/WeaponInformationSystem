@@ -165,7 +165,7 @@ local function drawwpninfo()
 				draw.DrawText( desc, wpninfo.fonts.body, x + padding, y, wpninfo.colors.text, TEXT_ALIGN_LEFT )
 				draw.DrawText( wpninfo.infos.damage, wpninfo.fonts.body, x + panelwidth - padding, y, wpninfo.colors.text, TEXT_ALIGN_RIGHT )
 				y = getnewy( desc )
-				desc = "Clip Size: "
+				desc = "Mag. Size: "
 				draw.DrawText( desc, wpninfo.fonts.body, x + padding, y, wpninfo.colors.text, TEXT_ALIGN_LEFT )
 				draw.DrawText( wpninfo.infos.clipsize, wpninfo.fonts.body, x + panelwidth - padding, y, wpninfo.colors.text, TEXT_ALIGN_RIGHT )
 				y = getnewy( desc )
